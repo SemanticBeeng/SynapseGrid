@@ -1,5 +1,8 @@
-SynapseGrid
+SynapseGrid 
 ===========
+
+*Note* : Updated ***DO NOT DELETE***
+
 [![Build Status](https://travis-ci.org/Primetalk/SynapseGrid.svg)](https://travis-ci.org/Primetalk/SynapseGrid)
 
 SynapseGrid is an original approach to implement functional reactive programming paradigm in Scala. The library is based 
