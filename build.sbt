@@ -28,7 +28,7 @@ lazy val slf4j = (project in file("synapse-grid-slf4j")).settings(
   libraryDependencies += "org.slf4j" % "slf4j-api" % "1.7.22"
 ).dependsOn(core)
 
-lazy val akkaVersion = "2.4.16"
+lazy val akkaVersion = "2.5.14"
 
 lazy val akka = (project in file("synapse-grid-akka")).settings(
   commonSettings,
